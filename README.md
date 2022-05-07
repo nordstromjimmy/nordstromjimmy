@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jimmy
-- 👀 I’m interested in programming/games
-- 🌱 I’m currently learning C#/Unity
+- 👀
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me ... Here!
 
 <!---
